@@ -47,7 +47,7 @@ Kotlin with Jetpack Compose and Compose Desktop, Swift on Apple devices. Usage c
     <td width="33%" valign="top">
       <img src="assets/mesa.png" width="100%" alt="The whole desk in pixel art at night">
       <h3>suiciniv.dev</h3>
-      My portfolio: this desk as a website. Power on the setup and click everything; there are 16 secrets hidden in it.
+      My portfolio: this desk as a website. Power on the setup and click everything; there are 20 secrets hidden in it.
       <br><br><a href="https://suiciniv-dev-apps.pages.dev/">Visit</a> · <a href="https://github.com/suiciniv-dev/portfolio-apps">Code</a>
     </td>
   </tr>
