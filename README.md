@@ -1,7 +1,7 @@
-<a href="https://suiciniv-dev-apps.pages.dev/"><img src="assets/header.gif" width="100%" alt="Vinícius Pires da Silva, C# and .NET developer who builds the tools he uses. Next to it, my desk in pixel art: the Senna monitor, the sensor HUD, the old phone with Racco and the laptop."></a>
+<a href="https://suiciniv.dev/"><img src="assets/header.gif" width="100%" alt="Vinícius Pires da Silva, C# and .NET developer who builds the tools he uses. Next to it, my desk in pixel art: the Senna monitor, the sensor HUD, the old phone with Racco and the laptop."></a>
 
 <p align="center">
-  <a href="https://suiciniv-dev-apps.pages.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-suiciniv--dev--apps.pages.dev-ee7a5b?style=flat-square"></a>
+  <a href="https://suiciniv.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-suiciniv.dev-ee7a5b?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/viniciuspiresdasilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-viniciuspiresdasilva-3b3249?style=flat-square"></a>
   <a href="mailto:vinips00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-vinips00%40gmail.com-3b3249?style=flat-square"></a>
   <a href="https://github.com/simix-viniciussilva"><img alt="Work GitHub" src="https://img.shields.io/badge/work-simix--viniciussilva-3b3249?style=flat-square"></a>
@@ -15,7 +15,7 @@ In my free time I build the tools I use myself. Some ideas are useful. Others…
 
 ## 🦝 Banditboard
 
-<a href="https://banditboard.pages.dev/"><img src="https://raw.githubusercontent.com/suiciniv-dev/banditboard/main/prints/1.17.0/hero.gif" width="100%" alt="Raccoons sleeping with an empty session, waking up, turning red near the limit, bursting at 100% and dancing to music"></a>
+<a href="https://banditboard.suiciniv.dev/"><img src="https://raw.githubusercontent.com/suiciniv-dev/banditboard/main/prints/1.17.0/hero.gif" width="100%" alt="Raccoons sleeping with an empty session, waking up, turning red near the limit, bursting at 100% and dancing to music"></a>
 
 Keep an eye on your Claude Code and Antigravity limits on an old Android phone, an iPhone or an Apple Watch, or in a small widget on Windows and Mac. Every model is Racco, a pixel art raccoon that sleeps, sweats and bursts as the limit gets close.
 
@@ -26,7 +26,7 @@ Keep an eye on your Claude Code and Antigravity limits on an old Android phone, 
   <img alt="Platforms" src="https://img.shields.io/badge/Android_·_iPhone_·_Watch_·_Windows_·_Mac-3b3249?style=flat-square">
 </p>
 
-Kotlin with Jetpack Compose and Compose Desktop, Swift on Apple devices. Usage comes from Claude Code itself through a hook, with no token on the phone, and the pairing key is encrypted with AES-256-GCM. **[Website](https://banditboard.pages.dev/)** · **[Code](https://github.com/suiciniv-dev/banditboard)**
+Kotlin with Jetpack Compose and Compose Desktop, Swift on Apple devices. Usage comes from Claude Code itself through a hook, with no token on the phone, and the pairing key is encrypted with AES-256-GCM. **[Website](https://banditboard.suiciniv.dev/)** · **[Code](https://github.com/suiciniv-dev/banditboard)**
 
 ## 🧰 Also on my desk
 
@@ -48,7 +48,7 @@ Kotlin with Jetpack Compose and Compose Desktop, Swift on Apple devices. Usage c
       <img src="assets/mesa.png" width="100%" alt="The whole desk in pixel art at night">
       <h3>suiciniv.dev</h3>
       My portfolio: this desk as a website. Power on the setup and click everything; there are 20 secrets hidden in it.
-      <br><br><a href="https://suiciniv-dev-apps.pages.dev/">Visit</a> · <a href="https://github.com/suiciniv-dev/portfolio-apps">Code</a>
+      <br><br><a href="https://suiciniv.dev/">Visit</a> · <a href="https://github.com/suiciniv-dev/portfolio-apps">Code</a>
     </td>
   </tr>
 </table>
@@ -82,10 +82,10 @@ Sou desenvolvedor C# e .NET, de Canoas (RS), Pleno III na **Símix**. Trabalho d
 
 No meu tempo livre, construo as ferramentas que eu mesmo uso:
 
-- **[Banditboard](https://banditboard.pages.dev/)**: os limites do Claude Code e do Antigravity num celular Android parado na mesa, no iPhone, no Apple Watch ou num widget no Windows e no Mac, com o Racco, um guaxinim em pixel art.
+- **[Banditboard](https://banditboard.suiciniv.dev/)**: os limites do Claude Code e do Antigravity num celular Android parado na mesa, no iPhone, no Apple Watch ou num widget no Windows e no Mac, com o Racco, um guaxinim em pixel art.
 - **Senna**: o assistente do meu Windows. A v1 falava; a v2, em C# e WinUI 3, trabalha calada.
 - **[ControlSensors HUD](https://github.com/suiciniv-dev/ControlSensors)**: um HUD de sensores para o monitor do lado.
-- **[suiciniv.dev](https://suiciniv-dev-apps.pages.dev/)**: o meu portfólio, esta mesa como site.
+- **[suiciniv.dev](https://suiciniv.dev/)**: o meu portfólio, esta mesa como site.
 
 </details>
 
